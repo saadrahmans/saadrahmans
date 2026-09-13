@@ -100,6 +100,8 @@ A sneaker marketplace application built with React and TypeScript.
 
 ---
 
-### 📫 Let's Connect
+## 🤝 Let's Connect
 
-I'm interested in learning, collaborating on projects, and connecting with people working in **Cybersecurity, AI/ML, Autonomous Systems, Robotics, and Software Engineering**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Saad%20ur%20Rahman-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammad-saad-ur-rahman/)
+
+I'm interested in connecting and collaborating with people working in **Cybersecurity, AI/ML, Autonomous Systems, Robotics, and Software Engineering**.
